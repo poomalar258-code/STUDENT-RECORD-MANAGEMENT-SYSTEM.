@@ -247,7 +247,8 @@ gcc *.c -o student
 
 ## 👩‍💻 Author
 
-Poomalar R
+ Poomalar R
+
 🌱 Embedded Systems Enthusiast
 - 💻 C Programmer
 - 🎓 B.E. Electrical and Electronics Engineering
