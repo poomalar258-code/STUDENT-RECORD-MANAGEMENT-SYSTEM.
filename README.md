@@ -249,9 +249,6 @@ gcc *.c -o student
 
  Poomalar R
 
-🌱 Embedded Systems Enthusiast
-- 💻 C Programmer
-- 🎓 B.E. Electrical and Electronics Engineering
 -🌱 Embedded Systems Enthusiast
 - 💻 C Programmer
 - 🎓 B.E. Electrical and Electronics Engineering
