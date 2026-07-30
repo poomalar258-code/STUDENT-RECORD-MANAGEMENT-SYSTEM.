@@ -247,12 +247,11 @@ gcc *.c -o student
 
 ## 👩‍💻 Author
 
- Poomalar R
+Poomalar R
 
--🌱 Embedded Systems Enthusiast
+- 🌱 Embedded Systems Enthusiast
 - 💻 C Programmer
 - 🎓 B.E. Electrical and Electronics Engineering
-
 
 - GitHub: https://github.com/poomalar258-code
 
