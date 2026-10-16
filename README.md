@@ -2,6 +2,7 @@
 
 A simple **Student Record Management System** developed in **C** using **Singly Linked List** and **File Handling**. This project provides a menu-driven interface to efficiently manage student records. It demonstrates data structures, dynamic memory allocation, modular programming, and file operations in C.
 
+![Student Record Management System](Student%20Record%20Management%20System.png)
 ---
 
 ## 📌 Features
