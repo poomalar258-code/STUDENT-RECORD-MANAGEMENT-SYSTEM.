@@ -1,6 +1,6 @@
 #include "student.h"
 
-void load_file(ST **ptr)
+void load(ST **ptr)
 {
     ST *temp, *last;
     FILE *fp;
